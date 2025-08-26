@@ -37,8 +37,7 @@ Developed a simple interactive web page using HTML, CSS, and JavaScript.
 ---
 
 🎥 **LinkedIn Video**  
-Watch the demonstration video on LinkedIn:  
-[LinkedIn Video Link](https://www.linkedin.com/posts/activity-7366022974514069505-_ZHO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFxllrAB2mP6usCdZraySPtZAqF6EL0J9c0)
+[LinkedIn Post 🔗](https://www.linkedin.com/posts/activity-7366022974514069505-_ZHO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFxllrAB2mP6usCdZraySPtZAqF6EL0J9c0)
 
 ---
 
